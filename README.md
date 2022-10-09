@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](ezgif.com-gif-maker.gif)
+![](unit5.gif)
 
 
 
